@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-aqa23y.i-pacdashboard.in/sitemap.xml
